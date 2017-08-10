@@ -15,6 +15,8 @@
 	<meta property="og:url" content="http://codefish.mv"/>
 	<meta property="og:site_name" content="CODEFISH" />
 	<meta property="og:image" content="img/og.png" />
+	<meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
 	<meta name="twitter:card" content="summary"/>
 	<meta name="twitter:site" content="@codefishmv"/>
